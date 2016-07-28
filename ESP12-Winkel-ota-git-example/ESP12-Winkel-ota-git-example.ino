@@ -68,7 +68,7 @@ void setup() {
   Serial.println(WiFi.localIP());
   
   /*
-   * Your initialization code goes here
+   * Your setup code can go here as well to run once
    */
   
 }

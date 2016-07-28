@@ -3,9 +3,9 @@
 The above example shows how ESP-12E on the winkel board enables OTA programming. When you buy winkel board, the above sketch comes loaded so you can immediately start programming the ESP-21E WiFi module.
 
 # Table of contents
-* Requirements
-* Configuration
-* How to program
+* Requirements[#requirements]
+* Configuration[#configuration]
+* How to program[#how-to-upload-a-program]
 
 ## Requirements
 - Arduino IDE 1.6.7 and later. Recommended 1.6.9
@@ -25,7 +25,7 @@ The above example shows how ESP-12E on the winkel board enables OTA programming.
 * You will not be able to perfom uploads until you have configured the WiFi module to connect to your local network.
 * After successfull configuration the onboard ESP-12E should obtain an IP address. You can verify this by going to your routers page or you can download an app called "Fing" and scan your network to see if the ESP-12E has got an IP.
 * Now open your Arduino IDE and go to `Tools -> Ports`
-* Here you will see "winkelota at <ip_of_ESP>" under `Network Ports`.
+* Here you will see "winkelota at ip_of_ESP" under `Network Ports`.
 * Select that and hit upload.
 * **Remember : The above sketch is necessarry for OTA to work everytime. There is a section `/*your code goes here*/` in the sketch where you are suppossed to insert your code. And required initialisation can be done in setup().**
 
