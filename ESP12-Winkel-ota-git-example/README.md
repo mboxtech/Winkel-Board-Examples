@@ -19,9 +19,12 @@ The above example shows how ESP-12E on the winkel board enables OTA programming.
 ## Drawbacks
 * You will not be able to open console in Arduino IDE. if serial monitoring is your thing, then OTA programming might irritate you.
 	- **Solution** : You can write a short snippet on microcontroller to read ESP-12E's serial and display it when you open the microcontroller's serial. That way you can perform serial monitoring. All controllers on Winkel have 2 nd more UART's which allows initiate 2 or more serials
-	example : Serial.begin(115200);
+	example : 
+	```java			
+			  Serial.begin(115200);
 			  Serial1.begin(115200); //ESP-12E's serial can be captured here
 			  if(Serial1.available()){
 			  	char capture = Serial1.read();
 			  	Serial.print(capture);
 			  }
+			  ```
