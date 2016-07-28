@@ -3,9 +3,9 @@
 The above example shows how ESP-12E on the winkel board enables OTA programming. When you buy winkel board, the above sketch comes loaded so you can immediately start programming the ESP-21E WiFi module.
 
 # Table of contents
-* Requirements[#requirements]
-* Configuration[#configuration]
-* How to program[#how-to-upload-a-program]
+* [Requirements](#requirements)
+* [Configuration](#configuration)
+* [How to program](#how-to-upload-a-program)
 
 ## Requirements
 - Arduino IDE 1.6.7 and later. Recommended 1.6.9
