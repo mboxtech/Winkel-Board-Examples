@@ -6,11 +6,6 @@
 #include <WiFiManager.h>
 #include <ArduinoOTA.h>
 
-WiFiServer server(80);
-
-//const char* ssid = "MintBoxTech";
-//const char* password = "MB@office@pune";
-
 void setup() {
  // put your setup code here, to run once:
   Serial.begin(115200);
@@ -71,7 +66,11 @@ void setup() {
   Serial.println("Ready");
   Serial.print("IP address: ");
   Serial.println(WiFi.localIP());
-  server.begin();
+  
+  /*
+   * Your initialization code goes here
+   */
+  
 }
 
 void loop() {
