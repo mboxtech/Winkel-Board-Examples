@@ -33,3 +33,4 @@ Winkel Pro-II Board is completely opensource and all relevant files **Schematics
 | SD card slot	 | Micro SD slot |
 
 ## Board
+UNDER DEVELOPMENT : COMING SOON
