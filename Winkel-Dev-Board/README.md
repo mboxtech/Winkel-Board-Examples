@@ -4,7 +4,7 @@
 The Winkel Dev Board is a unique entry level Arduino IDE compatible board that is more advanced than many of the popular entry level Arduino Development Boards as it is built on a powerful yet ignored Atmel Chip - ATmega128
 
 ## Technology
-The Winkel Dev Board is a microcontroller based board built on [ATmega128](https://www.google.com), an 8-bit microncontroller that has 128KB of Flash memory and 4KB of RAM. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or with a 5v micro USB power adapter.  
+The Winkel Dev Board is a microcontroller based board built on [ATmega128](http://www.atmel.com/devices/ATMEGA128.aspx?tab=parameters), an 8-bit microncontroller that has 128KB of Flash memory and 4KB of RAM. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or with a 5v micro USB power adapter.  
 This Dev board also houses a bluetooth module in the form of HC-05 which gives it a unique never used before feature of programming the board **Over The Air.**  
 **Complete wireless programming via bluetooth** comes is useful in the sense when a board is already soldered in any project you want to make some changes to the code you burned on the microncontroller, you can easily do it wirelessy.
 
