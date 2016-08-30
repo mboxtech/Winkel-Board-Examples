@@ -1,7 +1,7 @@
 # Winkel Pro-I Board
 
 ## Overview
-The Winkel Pro Board is a unique, advanced & evolved version of the Winkel Dev Board. It is Arduino IDE compatible board that is more advanced than many of the popular advanced maker boards in the market. Also built on top of Atmel ATmega128, it goes a step further housing many of the popular known WiFi, Radio and Bluetooth chips on board. Targeted at both entry & advanced level makers, this Pro version provides a complete integrated solution for several projects.
+The Winkel Pro-I Board is a unique, advanced & evolved version of the Winkel Dev Board. It is Arduino IDE compatible board that is more advanced than many of the popular advanced maker boards in the market. Also built on top of Atmel ATmega128, it goes a step further housing many of the popular known WiFi, Radio and Bluetooth chips on board. Targeted at both entry & advanced level makers, this Pro version provides a complete integrated solution for several projects.
 
 ## Technology
 The Winkel Pro Board is a microcontroller based board built on [ATmega128](http://www.atmel.com/devices/ATMEGA128.aspx?tab=parameters), an 8-bit microncontroller that has 128KB of Flash memory and 4KB of RAM. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or with a 5v micro USB power adapter.  
