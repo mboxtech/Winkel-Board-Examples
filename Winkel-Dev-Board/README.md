@@ -25,8 +25,8 @@ Winkel Dev Board is completely opensource and all relevant files **Schematics, R
 | Clock Speed	 | 16MHz |
 
 ## Board
-### Top View
+### Top View - Click on the image to maximize
 ![alt text](https://raw.githubusercontent.com/mboxtech/winkel/master/Winkel-Dev-Board/images/Dev-Top.png "Winkel Dev Board")
 
-### Bottom View
+### Bottom View - Click on the image to maximize
 ![alt text](https://raw.githubusercontent.com/mboxtech/winkel/master/Winkel-Dev-Board/images/Dev-Bottom.png "Winkel Dev Board")
