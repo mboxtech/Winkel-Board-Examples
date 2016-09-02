@@ -1,5 +1,13 @@
 # Winkel Dev Board
 
+# Table of Contents
+- [Overview](#overview)
+- [Technology](#technology)
+- [Documentation](#documentation)
+- [Technical Specifications](#technical-specifications)
+- [Board](#board)
+- [Pinout](#pinout)
+
 ## Overview
 The Winkel Dev Board is a unique entry level Arduino IDE compatible board that is more advanced than many of the popular entry level Arduino Development Boards as it is built on a powerful yet ignored Atmel Chip - ATmega128
 
@@ -30,3 +38,7 @@ Winkel Dev Board is completely opensource and all relevant files **Schematics, R
 
 ### Bottom View - Click on the image to maximize
 ![alt text](https://raw.githubusercontent.com/mboxtech/winkel/master/Winkel-Dev-Board/images/Dev-Bottom.png "Winkel Dev Board")
+
+## Pinout
+![alt text](https://raw.githubusercontent.com/mboxtech/winkel/master/Winkel-Dev-Board/images/Devpinout.png "Pinout")
+
