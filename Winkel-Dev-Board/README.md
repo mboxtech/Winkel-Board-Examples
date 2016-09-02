@@ -1,6 +1,6 @@
 # Winkel Dev Board
 
-# Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Technology](#technology)
 - [Documentation](#documentation)
